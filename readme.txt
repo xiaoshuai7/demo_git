@@ -6,3 +6,7 @@ Git is free software.
 第六步：啊实打
 第七部L百步船样
 Creating a new branch is quick and simple.
+
+<?php
+echo 1;
+?>
